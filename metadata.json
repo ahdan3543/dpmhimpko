@@ -1,0 +1,7 @@
+{
+  "name": "DPM HIMA PKO Portal",
+  "description": "Website resmi Dewan Perwakilan Mahasiswa Himpunan Mahasiswa PKO (DPM HIMA PKO) sebagai pusat informasi, berita kegiatan, dan penyaluran aspirasi mahasiswa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
